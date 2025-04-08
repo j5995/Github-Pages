@@ -1,8 +1,3 @@
----
-title: README.md
-layout: template
-filename: README.md
----
 
 # Github-Pages
 
