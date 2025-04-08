@@ -1,5 +1,7 @@
 ---
 title: README.md
+layout: template
+filename: about.md
 ---
 
 # Github-Pages
